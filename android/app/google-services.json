@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405821752852",
+    "project_id": "busmap-3b0c1",
+    "storage_bucket": "busmap-3b0c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405821752852:android:ff62bb314d4ee9520c8901",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32cBVxtbJJlcFKEHUSsNF5tO9Y51k3oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
